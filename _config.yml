@@ -1,0 +1,24 @@
+title: Copilot for M365
+description: This lab enables you to increase technical proficiency in using Copilot for M365 to design, implement, and deploy secure and compliant solutions to accelerate Copilot adoption, support and scale business opportunities.
+theme: just-the-docs
+
+aux_links:
+  "TechExcel Elevate your Copilot for M365 Technical Proficiency": 
+    - "https://github.com/microsoft/TechExcel-Elevate-your-Copilot-for-Microsoft-365-Technical-Proficiency-Interactive-Simulations"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
