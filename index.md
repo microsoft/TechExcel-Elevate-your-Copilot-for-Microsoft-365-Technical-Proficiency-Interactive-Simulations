@@ -8,7 +8,7 @@ nav_order: 1
 
 **The estimated time to complete this lab is 210 minutes.**
 
-At this end of this lab, you will be able to:
+At the end of this lab, you'll be able to:
 
 - Identify and manage the Copilot dashboard and control settings.
 - Integrate Copilot with Microsoft Purview for data classification and compliance enforcement.
@@ -21,7 +21,7 @@ Contoso is a global company that sells a wide range of products and services thr
 
 However, Contoso faces several challenges with its existing IT infrastructure and software solutions, such as:
 
--	Excessive costs and complexity of maintaining multiple legacy systems and applications.
+-	Excessive costs and complexity of maintaining multiple legacy systems and applications
 -	Low productivity and collaboration among employees due to siloed information and workflows
 -	Limited innovation and agility due to outdated and incompatible software tools
 -	Security and compliance risks due to lack of visibility and control over data and devices
@@ -43,9 +43,9 @@ However, Contoso faces several challenges with its existing IT infrastructure an
 
 ### Current state
 
--	Contoso has an inefficient and outdated IT infrastructure and software solutions.
+-	Contoso has inefficient and outdated IT infrastructure and software solutions.
 -	Contoso spends a lot of time and money on maintaining multiple legacy systems and applications that are not integrated and often cause errors and delays.
--	Contoso’s employees have to use different software tools for different tasks and switch between them frequently, which reduces their productivity and collaboration.
+-	Contoso’s employees have to use different software tools for different tasks and switch between them frequently, which reduces productivity and collaboration.
 -	Contoso faces difficulties in innovating and adapting to new opportunities and challenges due to the lack of modern and compatible software tools that can support its business goals and processes.
 -	Contoso is exposed to security and compliance risks due to the lack of visibility and control over its data and devices, which can result in data breaches, cyberattacks, or regulatory violations. 
 
@@ -59,11 +59,11 @@ However, Contoso faces several challenges with its existing IT infrastructure an
 
 ### Customer requirements
 
--	Seamless collaboration and communication among teams and departments.
--	Easy access and management of data and files across devices and locations.
--	High security and compliance standards for data protection and privacy.
--	Low costs and complexity for IT support and maintenance.
--	Enhanced functionality and innovation for enhancing work efficiency and creativity.
+-	Seamless collaboration and communication among teams and departments
+-	Easy access and management of data and files across devices and locations
+-	High security and compliance standards for data protection and privacy
+-	Low costs and complexity for IT support and maintenance
+-	Enhanced functionality and innovation for enhancing work efficiency and creativity
 
 ### Customer objections
 -	How can we trust Microsoft to protect our data and privacy in the cloud?
@@ -78,8 +78,8 @@ This lab has exercises on:
 
 - Deploying, managing, and administering Copilot for Microsoft 365 and Windows Copilot
 - Configuring roles in Microsoft 365 admin center 
-- Leveraging Copilot for Microsoft 365, Microsoft Graph, and Semantic Index for enhanced responses
-- Exploring Reporting Options for Copilot
+- Leveraging Copilot for Microsoft 365, Microsoft Graph, and semantic index for enhanced responses
+- Exploring reporting options for Copilot
 - Using Microsoft Purview and Copilot to manage and govern your data assets
 - SharePoint Advanced Management Collaboration Insights
 - SharePoint Advanced Management Data Access Governance
